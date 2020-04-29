@@ -1,0 +1,105 @@
+@CHARSET "UTF-8";
+#Header
+{
+   display : inline;
+   
+   
+}
+
+.headerInside
+{
+    display : inline;
+    padding : 10px;
+    color: brown;
+    font-weight: 20px;
+    font-size: 20px;
+    
+}
+
+#loginbox
+{
+    position : absolute;    
+    left : 30%; 
+    top:30%; 
+            
+}
+
+#home
+{
+   font-size: 40px;
+}
+
+
+#infobox
+{
+  position : absolute;
+   left : 30%; 
+    top:30%; 
+   
+
+}
+
+.box
+{
+   width: 300px;
+   height: 30px;
+   border-top: none;
+    border-right: none;
+     border-left: none;
+      border-bottom-color: brown;
+}
+
+.btn
+{
+   border-radius : 5px;
+    width: 120px;
+   height: 30px;
+   background-color:brown;
+   border-top: none;
+    border-right: none;
+     border-left: none;
+      border-bottom: none;
+     color:white;
+}
+
+
+
+.bifbtn
+{
+    width: 100px;
+    height: 100px;
+    padding : 10px;
+    margin: 10px;
+    color:white;
+    background-color:brown;
+    border-radius:5px;
+    border-top: none;
+    border-right: none;
+     border-left: none;
+      border-bottom: none;
+}
+
+#tablebox
+{
+	position:relative;
+	left : 20%; 
+    top:50%; 
+	padding:10px;
+	border-color: red;
+}
+.th
+{
+	padding: 10px;
+	background-color:brown;
+}
+
+.td
+{
+	padding: 10px;
+}
+
+a
+{
+	
+  text-decoration: none;
+}
